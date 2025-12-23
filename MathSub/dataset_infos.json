@@ -1,0 +1,1 @@
+{"default": {"features": {"data_source": {"_type": "Value"}, "prompt": {"_type": "Value"}, "ability": {"_type": "Value"}, "reward_model": {"_type": "Value"}, "__index_level_0__": {"_type": "Value"}}, "splits": {"train": {"name": "train", "dataset_name": "KlearReasoner-MathSub-30K"}}}}

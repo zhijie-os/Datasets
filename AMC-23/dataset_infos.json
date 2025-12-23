@@ -1,0 +1,1 @@
+{"default": {"features": {"id": {"_type": "Value"}, "problem": {"_type": "Value"}, "answer": {"_type": "Value"}, "url": {"_type": "Value"}, "question": {"_type": "Value"}}, "splits": {"train": {"name": "train", "dataset_name": "AMC-23"}}}}
